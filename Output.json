@@ -1,0 +1,179 @@
+{
+  "personal_info": {
+    "name": "Sowmya R",
+    "email": "rsowmya2004@gmail.com",
+    "phone": "9442085403",
+    "location": "Chennai, India",
+    "dob": "24/02/2004",
+    "linkedin": "https://www.linkedin.com/in/sowmya-r-43908b285",
+    "github": "https://github.com/rr4883"
+  },
+  "profile": "Enthusiastic third-year Computer Science and Engineering student at SRM IST, specialization in Information Technology. Skilled in full-stack and Android app development, with expertise in creating user-friendly interfaces and database management. Strong problem-solving abilities, adaptability, and time management skills drive my passion to contribute to innovative projects in a dynamic development environment.",
+  "education": [
+    {
+      "degree": "B.Tech CSE IT",
+      "institution": "SRM IST",
+      "dates": "07/2021 – present",
+      "location": "Chennai",
+      "cgpa": 9.49
+    },
+    {
+      "level": "12th",
+      "institution": "Kendriya Vidyalaya DGQA",
+      "dates": "04/2020 – 06/2021",
+      "location": "Chennai",
+      "percentage": 87.6
+    },
+    {
+      "level": "10th",
+      "institution": "Kendriya Vidyalaya DGQA",
+      "dates": "04/2018 – 05/2019",
+      "location": "Chennai",
+      "percentage": 84.8
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full-Stack Developer Intern",
+      "company": "Altruisty",
+      "dates": "06/2024 – Present",
+      "description": "Currently developing a real-time industry-related website using full stack technologies (MERN Stack). Gaining hands-on experience with live projects, collaborating with team members to ensure project requirements are met and delivered on time."
+    },
+    {
+      "role": "AWS Cloud Virtual Internship",
+      "organization": "AICTE",
+      "dates": "01/2024 – 03/2024",
+      "description": "Gained comprehensive training and learned fundamental cloud computing concepts and advanced architectural principles specific to the AWS ecosystem."
+    },
+    {
+      "role": "Salesforce Developer Virtual Internship",
+      "dates": "11/2023 – 01/2024",
+      "description": "Developed knowledge with the Lightning, Visualforce, and Apex components, while understanding the impact of process builder automation, workflows, and Salesforce object setup operations."
+    },
+    {
+      "role": "Google Android Developer Virtual Internship",
+      "organization": "AICTE",
+      "dates": "09/2023 – 11/2023",
+      "description": "Obtained hands-on experience in Android development, proficient in crafting responsive interfaces using XML and Kotlin within Android Studio."
+    }
+  ],
+  "projects": [
+    {
+      "name": "EatsEase - Online Food Ordering System",
+      "description": "The platform offers a online food ordering experience, enabling users to register, browse menus, add items to their cart, and checkout seamlessly.",
+      "stack": "Full Stack",
+      "link": "https://github.com/rr4883/EatsEase-food-ordering-system"
+    },
+    {
+      "name": "Banking-KYC",
+      "description": "Implemented a secure banking KYC verification platform where users access KYC information, provide details via an intuitive interface, and use Facial Authentication for enhanced security.",
+      "stack": "Full Stack",
+      "link": "https://github.com/rr4883/Banking-KYC"
+    },
+    {
+      "name": "Control Engineering Lab",
+      "description": "Collaborating with SRM faculty to develop an intuitive e-Lab platform with engaging front-end and efficient cloud-based backend.",
+      "stack": "Full Stack"
+    },
+    {
+      "name": "ProductPage",
+      "description": "Crafted a basic smartwatch product, offering dynamic color displays, and precise timekeeping functionality.",
+      "stack": "ReactJS",
+      "link": "https://github.com/rr4883/ProductPage-ReactJs-"
+    },
+    {
+      "name": "To-Do List",
+      "description": "Created a straightforward to-do list which allows users to add, delete, and mark tasks as completed.",
+      "stack": "ReactJS",
+      "link": "https://github.com/rr4883/TO-DO-ReactJs-"
+    },
+    {
+      "name": "School Dropout Analysis",
+      "description": "Analyze school dropout trends and established a ML system for prediction, and created an interactive UI for enhanced accessibility to dropout predictions.",
+      "stack": "Machine Learning",
+      "link": "https://github.com/rr4883/SCHOOL_DROPOUT_ANALYSIS"
+    },
+    {
+      "name": "BMI",
+      "description": "Developed a user-friendly application using Java to calculate BMI categorizes into different weight status.",
+      "stack": "Application Development",
+      "link": "https://github.com/rr4883/BMI-Calculator"
+    },
+    {
+      "name": "Weather App",
+      "description": "Designed and developed a dynamic weather application allowing users to retrieve real-time weather information by inputting city names.",
+      "stack": "Application Development",
+      "link": "https://github.com/rr4883/Weather-app"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Java",
+    "XML",
+    "ReactJS",
+    "Python",
+    "Firebase",
+    "C",
+    "SQL",
+    "Figma"
+  ],
+  "interpersonal_skills": [
+    "Problem Solving",
+    "Time Management",
+    "Adaptability",
+    "Teamwork",
+    "Decision Making"
+  ],
+  "certificates": [
+    "Udemy - ReactJS - Complete Guide for Frontend Web Development",
+    "AWS Academy Machine Learning Foundations",
+    "CISCO - Networking Essentials",
+    "NPTEL - The Joy of Computing using Python",
+    "Zscaler - Fundamentals of Cybersecurity",
+    "IBM - Introduction to Data Science",
+    "AWS Academy Cloud Architecting and Cloud Foundations",
+    "Servicenow - Micro-Certification - Welcome to ServiceNow",
+    "Accenture - Digital Skills: User Experience"
+  ],
+  "languages": [
+    "English",
+    "Tamil",
+    "Hindi"
+  ],
+  "scholarships": [
+    {
+      "name": "Performance Based Scholarship",
+      "amount": 55000,
+      "description": "Achieved a performance-based scholarship of Rs.55,000 during my initial academic year."
+    }
+  ],
+  "hackathons": [
+    {
+      "name": "MOZOHACK5.0 SRMKZILLA",
+      "date": "Mar 2024",
+      "status": "Participated"
+    },
+    {
+      "name": "Smart India Hackathon",
+      "date": "Sep 2023",
+      "status": "Participated"
+    },
+    {
+      "name": "EY Techathon 4.0",
+      "date": "Nov 2023",
+      "status": "Participated"
+    },
+    {
+      "name": "Standard Chartered Hackathon",
+      "date": "Mar 2024",
+      "status": "Participated"
+    },
+    {
+      "name": "Hack-O-Hire",
+      "date": "Mar 2024",
+      "status": "Participated"
+    }
+  ]
+}
